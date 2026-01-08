@@ -1,9 +1,6 @@
 ## Hello there 👋
 
-<!--
-**salvador-idk/salvador-idk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working as an IT Analyst at Vuteq Ramos Arizpe Plant.
 - 🌱 I’m currently learning Flutter (Dart) to develop mobile apps
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: salvador.escalona117@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: you know that Aragorn (Viggo Mortensen) broke his toe in LOTR by kicking a Uruk-hai helmet?
--->
+
