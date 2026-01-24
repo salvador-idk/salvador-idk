@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working as an IT Analyst at Vuteq Ramos Arizpe Plant.
+- 🔭 I was working as an IT Analyst at Vuteq Ramos Arizpe Plant.
 - 🌱 I’m currently learning Flutter (Dart) to develop mobile apps
 - 👯 I’m looking to collaborate on web or mobile apps
 - 🤔 I’m looking for help with React.js 
